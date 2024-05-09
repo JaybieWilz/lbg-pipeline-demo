@@ -41,5 +41,7 @@ pipeline{
                     sh "zip ~/ archive.zip *.txt"
 
                 }
+            }
 
+        }
 }
